@@ -9,7 +9,7 @@ For more information about the drivers, please access the appropriate submodule 
 
 # How to use
 * Make sure to set up your project so that you can include (i) The drivers submodule and (ii) The startup directory 
-* Read the report.pdf inside each lab directory to understand how to build the circuits
+* Read the report.pdf inside each lab directory to understand how to build the circuits, what the specific lab does, and how to use it once it is up and running
 * If the lab you are interested in uses the SSD2119 LCD touch-screen, then please make sure that third_party/SSD2119 and third_party/tm4c1294ncpdt are accessible
 * For the FreeRTOS version of lab #4, you must also make sure that third_party/FreeRTOS and its subdirectories are visible
 * Build and upload to your board
