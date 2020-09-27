@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# IAR project files
+*.dep
+*.ewd
+*.ewt
+*.ewp
+*.eww
