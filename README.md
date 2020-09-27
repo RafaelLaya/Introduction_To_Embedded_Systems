@@ -1,4 +1,4 @@
-# EE474
+# Embedded Systems -- EE474
 
 This repository contains (i) My solutions to the assignments of my Introduction to Embedded Systems Class (EE474) and (ii) A simple set of drivers for the TM4C1294NCPDT board that I wrote in parallel to the class to learn about driver development for microcontrollers.
 
