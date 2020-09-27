@@ -51,9 +51,16 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# IAR project files
+# IAR project files and settings
 *.dep
 *.ewd
 *.ewt
 *.ewp
 *.eww
+settings/
+
+# vscode
+.vscode/
+
+# objects
+Debug/
